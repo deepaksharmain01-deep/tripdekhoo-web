@@ -1,0 +1,132 @@
+{
+    "destinations": [
+      {
+        "id": 1,
+        "title": "Singapore Tour Package",
+        "destination": "Singapore",
+        "name": "Singapore",
+        "subTitle": "Cityscapes, shopping, and cultural tours.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Singapore3.jpg",
+        "type": "international"
+      },
+      {
+        "id": 2,
+        "title": "Vietnam Tour Package",
+        "destination": "Vietnam",
+        "name": "Vietnam",
+        "subTitle": "Historical sites and beach retreats.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Vietnam3.jpg",
+        "type": "international"
+      },
+      {
+        "id": 3,
+        "title": "Japan Tour Package",
+        "destination": "Japan",
+        "name":"Japan",
+        "subTitle": "Tradition meets technology.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Japan3.jpg",
+        "type": "international"
+      },
+      {
+        "id": 4,
+        "title": "Bali Tour Package",
+        "destination": "Bali",
+        "name":"Bali",
+        "subTitle": "Island vibes and wellness retreats.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Bali3.jpg",
+        "type": "international"
+      },
+      {
+        "id": 5,
+        "title": "Dubai Tour Package",
+        "destination": "Dubai",
+        "name":"Dubai",
+        "subTitle": "Luxury shopping and desert safaris.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Dubai2.jpg",
+        "type": "international"
+      },
+      {
+        "id": 6,
+        "title": "Maldives Tour Package",
+        "destination": "Maldives",
+        "name":"Maldives",
+        "subTitle": "Overwater villas and ocean adventures.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Maldives5.jpg",
+        "type": "international"
+      },
+      {
+        "id": 7,
+        "title": "Mauritius Tour Package",
+        "destination": "Mauritius",
+        "name":"Mauritius",
+        "subTitle": "Romantic escapes and lush landscapes.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Mauritius2.jpg",
+        "type": "international"
+      },
+      {
+        "id": 8,
+        "title": "Europe Tour Package",
+        "destination": "Europe",
+        "name":"Europe",
+        "subTitle": "Explore iconic cities and cultures.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/europe2.jpg",
+        "type": "international"
+      },
+      {
+        "id": 9,
+        "title": "Kenya Tour Package",
+        "destination": "Kenya",
+        "name":"Kenya",
+        "subTitle": "Wildlife safaris and national parks.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Kenya1.jpg",
+        "type": "international"
+      },
+      {
+        "id": 10,
+        "title": "Egypt Tour Package",
+        "destination": "Egypt",
+        "name":"Egypt",
+        "subTitle": "Pyramids and ancient history.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/egypt5.jpg",
+        "type": "international"
+      },
+        {
+            "id": 11,
+            "title": "Thailand Tour Package",
+            "destination": "Thailand",
+            "name":"Thailand",
+            "subTitle": "Beaches, temples, and vibrant culture.",
+            "image": "https://d19k5x9tl64mcw.cloudfront.net/Thailand2.jpg",
+            "type": "international"
+        },
+     {
+        "id": 12,
+      "title": "Malaysia Tour Package",
+      "destination": "Malaysia",
+      "name":"Malaysia",
+      "subTitle": "Rainforests, skyscrapers, and street food.",
+      "image": "https://d19k5x9tl64mcw.cloudfront.net/Malaysia2.jpg",
+      "type": "international"
+     },
+       
+        {
+            "id": 13,
+            "title": "Kazakhstan Tour Package",
+            "destination": "Kazakhstan",
+            "name":"Kazakhstan",
+            "subTitle": "Steppe landscapes and modern cities.",
+            "image": "https://d19k5x9tl64mcw.cloudfront.net/Kazakhstan2.jpg",
+            "type": "international"
+        },
+        {
+            "id": 14,
+      "title": "Sri Lanka Tour Package",
+      "destination": "SriLanka",
+      "name":"Sri Lanka",
+      "subTitle": "Beaches, tea plantations, and ancient ruins.",
+      "image": "https://d19k5x9tl64mcw.cloudfront.net/SriLanka2.jpg",
+      "type": "international"
+        }
+    ]
+  }
+  

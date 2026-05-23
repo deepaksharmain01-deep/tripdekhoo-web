@@ -1,0 +1,53 @@
+.co-traveller-section .section-title {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .main-heading{
+    color: #8c52ff;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+  }
+ .subtitle-cotraveller {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+
+  }
+  
+  .co-traveller-section .description {
+    font-size: 16px;
+    max-width: 900px;
+    margin: 0 auto 30px;
+    line-height: 1.7;
+    color: #555;
+  }
+  
+  .image-wrap {
+    text-align: center;
+  }
+  
+
+  .image-wrap {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .styled-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
+  
+  
+  .image-title {
+
+  font-weight: 600;
+    font-size: 18px;
+    margin-top: 15px;
+
+  }
+  
+  

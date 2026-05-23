@@ -1,0 +1,54 @@
+.peak-trail-container {
+    background-color: #fff;
+    padding: 50px 20px;
+  }
+  
+  .title {
+    color: #8c52ff;
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .subtitle {
+    font-size:18px;
+   font-weight: 500;
+
+  }
+  
+  .season-label {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: 600;
+  }
+  
+  /* Swiper styles */
+  .swiper-card {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+  }
+  
+  .image-card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  }
+  
+  .image-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .image-card .label {
+    position: absolute;
+    bottom: 8px;
+    left: 10px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px black;
+  }
+  

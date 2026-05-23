@@ -1,0 +1,153 @@
+{
+    "destinations": [
+      {
+        "id": 1,
+        "title": "Tamil Nadu Getaway | Temple Trails and Coastal Charms",
+        "destination": "TamilNadu",
+        "name":"Tamil Nadu",
+        "subTitle": "Discover the cultural heritage of Tamil Nadu.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/south1.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 2,
+        "title": "South India Tour Package",
+        "destination": "SouthIndia",
+        "name":"South India",
+        "subTitle": "Explore the serene landscapes of South India.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/south15.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 3,
+        "title": "Kerala Tour Package",
+        "destination": "Kerala",
+        "name":"Kerala",
+        "subTitle": "Experience the backwaters and lush greenery.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/south10.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 4,
+        "title": "Uttarakhand Tour Package",
+        "destination": "Uttrakhand",
+        "name":"Uttrakhand",
+        "subTitle": "Adventure and spirituality in the Himalayas.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/uk2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 5,
+        "title": "Goa Tour Package",
+        "destination": "Goa",
+        "name":"Goa",
+        "subTitle": "Sun, sand, and sea adventures.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/goa2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 6,
+        "title": "Andaman and Nicobar Tour Package",
+        "destination": "AndamanandNicobar",
+        "name":"Andaman and Nicobar",
+        "subTitle": "Exotic islands and pristine beaches.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/ad1.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 7,
+        "title": "Rajasthan Tour Package",
+        "destination": "Rajasthan",
+        "name":"Rajasthan",
+        "subTitle": "Desert landscapes and royal palaces.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/raj2.jpg",
+        "type": "domestic",
+        "mostLoved":"true"
+      },
+      {
+        "id": 8,
+        "title": "Spiti Tour Package",
+        "destination": "Spiti",
+        "name":"Spiti",
+        "subTitle": "Explore the cold desert and monasteries.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/spiti2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 9,
+        "title": "Kashmir Tour Package",
+        "destination": "Kashmir",
+        "name":"Kashmir",
+        "subTitle": "Paradise on Earth with lakes and valleys.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/kashmir3.jpg",
+        "type": "domestic",
+        "mostLoved":true
+      },
+      {
+        "id": 10,
+        "title": "Himachal Tour Package",
+        "destination": "Himachal",
+        "name":"Himachal",
+        "subTitle": "Snow-capped mountains and hill stations.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/himachalpradesh5.jpg",
+        "type": "domestic"
+      },
+
+      {
+        "id": 12,
+        "title": "Bhutan Tour Package",
+        "destination": "Bhutan",
+        "name":"Bhutan",
+        "subTitle": "Monasteries and mountainous landscapes.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/Bhutan2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 13,
+        "title": "Meghalaya Tour Package",
+        "destination": "Meghalaya",
+        "name":"Meghalaya",
+        "subTitle": "Living root bridges and waterfalls.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/ne4.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 14,
+        "title": "Arunachal Pradesh Tour Package",
+        "destination": "ArunachalPradesh",
+        "name":"Arunachal Pradesh",
+        "subTitle": "Scenic beauty and tribal culture.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/ne7.jpg",
+        "type": "domestic"
+      },
+       {
+        "id": 15,
+        "title": "Sikkim Pradesh Tour Package",
+        "destination": "Sikkim",
+        "name":"Sikkim",
+        "subTitle": "Scenic beauty and tribal culture.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/ne9.jpg",
+        "type": "domestic"
+      },
+         {
+        "id": 16,
+        "title": "Ladakh Pradesh Tour Package",
+        "destination": "Ladakh",
+        "name":"Ladakh",
+        "subTitle": "Scenic beauty and tribal culture.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/ladakh2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 22,
+        "title": "Treks Pradesh Tour Package",
+        "destination": "Treks",
+        "name":"Treks",
+        "subTitle": "Adventure and trekking experiences.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/tr17.jpg",
+        "type": "domestic",
+         "mostLoved": true
+      }
+    ]
+  }
+  

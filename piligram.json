@@ -1,0 +1,44 @@
+ {
+    "destinations": [
+        {
+        "id": 17,
+        "title": "Vaishno Devi Pradesh Tour Package",
+        "destination": "Vaishno Devi",
+        "subTitle": "Piligrimage and spiritual journey.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/vd5.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 18,
+        "title": "Rameshwaram Pradesh Tour Package",
+        "destination": "Rameshwaram",
+        "subTitle": "Piligrimage and spiritual journey.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/rameshwaram2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 19,
+        "title": "Char Dham Pradesh Tour Package",
+        "destination": "CharDham",
+        "subTitle": "Piligrimage and spiritual journey.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/chardham2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 20,
+        "title": "Tirupati Pradesh Tour Package",
+        "destination": "Tirupati",
+        "subTitle": "Piligrimage and spiritual journey.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/tirupati2.jpg",
+        "type": "domestic"
+      },
+      {
+        "id": 21,
+        "title": "Kashi Pradesh Tour Package",
+        "destination": "Kashi",
+        "subTitle": "Piligrimage and spiritual journey.",
+        "image": "https://d19k5x9tl64mcw.cloudfront.net/kashi2.jpg",
+        "type": "domestic"
+      }
+    ]
+}

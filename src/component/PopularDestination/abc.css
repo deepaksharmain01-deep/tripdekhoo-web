@@ -1,0 +1,140 @@
+/* ===== Heading ===== */
+.destination-heading {
+  font-size: 32px;
+  font-weight: 500;
+  color: #8c52ff;
+}
+
+.sub-heading {
+  font-size: 22px;
+  font-weight: 400;
+  color: #6b6b6b;
+}
+
+/* ===== Marquee Wrapper ===== */
+.popular-marquee {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding: 10px 0;
+}
+
+/* Gradient fade edges */
+.popular-marquee::before,
+.popular-marquee::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 80px;
+  height: 100%;
+  z-index: 2;
+}
+
+.popular-marquee::before {
+  left: 0;
+  background: linear-gradient(to right, #fff, transparent);
+}
+
+.popular-marquee::after {
+  right: 0;
+  background: linear-gradient(to left, #fff, transparent);
+}
+
+/* ===== Track ===== */
+.marquee-track {
+  display: flex;
+  gap: 24px;
+  width: max-content;
+  animation: scroll-marquee 25s linear infinite;
+}
+
+/* Pause on hover */
+.popular-marquee:hover .marquee-track {
+  animation-play-state: paused;
+}
+
+/* ===== Card ===== */
+.marquee-card {
+  min-width: 220px;
+  flex-shrink: 0;
+}
+
+.destination-card-popular {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  background: #fff;
+  cursor: pointer;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.destination-card-popular:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* Image */
+.destination-card-popular img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  filter: brightness(0.95) contrast(0.95);
+  transition: filter 0.3s ease;
+}
+
+.destination-card-popular:hover img {
+  filter: brightness(1);
+}
+
+/* Overlay gradient */
+.destination-card-popular::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.45),
+    rgba(0, 0, 0, 0)
+  );
+}
+
+/* Destination name */
+.destination-name-popular {
+  position: absolute;
+  bottom: 12px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+/* ===== Animation ===== */
+@keyframes scroll-marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* ===== Mobile ===== */
+@media (max-width: 768px) {
+  .marquee-track {
+    animation-duration: 18s;
+  }
+
+  .marquee-card {
+    min-width: 180px;
+  }
+
+  .destination-card-popular img {
+    height: 220px;
+  }
+}

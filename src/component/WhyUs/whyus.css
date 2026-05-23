@@ -1,0 +1,30 @@
+.heading {
+    color: #9254f1;
+    font-weight: 700;
+    font-size: 32px;
+  }
+  
+  .custom-card {
+    box-shadow:  0 4px 6px rgba(0, 0, 0, 0.3);
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: #fff;
+    border-radius: 8px;
+  }
+  
+  .custom-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 24px rgba(146, 84, 241, 0.3);
+  }
+  
+  .card-title {
+    color: #8c52ff;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+  
+  .card-desc {
+    color: #333;
+    font-size: 0.95rem;
+  }
+  
